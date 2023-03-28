@@ -1,0 +1,15 @@
+{
+  "name": "asteroids",
+  "version": "1.0.0",
+  "description": "In this practice, you will implement the classic game Asteroids.",
+  "scripts": {
+     "start": "webpack --watch --mode=development"
+  },
+  "keywords": [],
+  "author": "josh and vamshi",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.76.3",
+    "webpack-cli": "^5.0.1"
+  }
+}
